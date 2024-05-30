@@ -1,5 +1,17 @@
 <h2 align="left">Hi, I'm Maykon 👋!</h2>
 
+<p>
+I'm a passionate Backend Software Engineer with over 10 years of experience in programming. Throughout my career, I've developed web frontends and mobile apps, but my true expertise lies in building highly scalable microservices. I specialize in cloud-based solutions that serve millions of customers, primarily using Golang as my main programming language. I leverage modern infrastructure tools like Kubernetes to ensure robust and efficient systems.
+</p>
+
+<p>
+I thrive on sharing knowledge and enjoy creating automations, scripts, and tools to simplify daily tasks. My enthusiasm for software development extends to algorithms and solving complex problems.
+</p>
+
+<p>
+Beyond coding, I have a keen interest in astronomy, science fiction, and drawing.
+</p>
+
 ###
 
 <div align="center">
@@ -12,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/maykonlsf" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="30" /></a>
+    <a href="https://maykonlsf.medium.com/" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="30" /></a>
 </p>
 
 ###
