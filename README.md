@@ -28,6 +28,7 @@ Beyond coding, I have a keen interest in astronomy, science fiction, and drawing
 <p align="left">
   <a href="https://linkedin.com/in/maykonlsf"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="30" /></a>
   <a href="https://maykonlsf.medium.com/"><img align="center" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="30" /></a>
+  <a href="https://dev.to/maykonlsf"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" height="30" /></a>
 </p>
 
 ###
