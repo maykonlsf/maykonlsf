@@ -18,9 +18,9 @@ Beyond coding, I have a keen interest in astronomy, science fiction, and drawing
   <img src="https://github-readme-stats.vercel.app/api?username=maykonlsf&theme=transparent" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maykonlsf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=maykonlsf&theme=transparent&hide_border=false&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ###
 
