@@ -32,7 +32,7 @@ Beyond coding, I have a keen interest in astronomy, science fiction, and drawing
 </p>
 
 ###
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40"/>
@@ -67,5 +67,6 @@ Beyond coding, I have a keen interest in astronomy, science fiction, and drawing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/>
 </div>
+-->
 
 ###
