@@ -15,7 +15,7 @@ Beyond coding, I have a keen interest in astronomy, science fiction, and drawing
 ###
 
 <div align="center">
-  <img src="profile/stats.svg" height="150" alt="stats graph"  />
+  <!-- <img src="profile/stats.svg" height="150" alt="stats graph"  /> -->
   <img src="profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 <!-- <div align="center">
